@@ -20,6 +20,7 @@ public class App
 {
     public static void main( String[] args ) throws MalformedURLException
     {
+//dsvdf
        DesiredCapabilities desiredCapability = new DesiredCapabilities();
        desiredCapability.setCapability(MobileCapabilityType.DEVICE_NAME, "Samsungs8_API_28"); 
        desiredCapability.setCapability(MobileCapabilityType.APP, "C:\\Appium_Wk\\appiumpractice\\ApiDemos-debug.apk");
