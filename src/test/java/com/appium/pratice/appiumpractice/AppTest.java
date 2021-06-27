@@ -1,3 +1,4 @@
+/** Test for Git */
 package com.appium.pratice.appiumpractice;
 
 import junit.framework.Test;
